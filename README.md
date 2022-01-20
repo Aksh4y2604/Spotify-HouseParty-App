@@ -8,7 +8,7 @@
 ##### `npm run build`
 
 ##### `cd ../music_controller`
-##### `pip3 install requirements.txt`
+##### `pip3 install -r requirements.txt`
 ##### `python manage.py runserver`
 
 ![Imgur](https://i.imgur.com/MxN7g15.png)
